@@ -1,0 +1,47 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{-7, 6}, {321, 468}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{110, 190}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "imageview1",
+          "uuid" : "C3B805B4-54FB-47B4-BF02-C396018CE034"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{-7, 0}, {1024, 768}}",
+        "class" : "NavigationView",
+        "attributes" : {
+          "title_bar_color" : "RGBA(1.0, 1.0, 1.0, 1.0)",
+          "frame" : "{{0, 80}, {320, 320}}",
+          "title_color" : "RGBA(0.33, 0.33, 0.33, 1.0)",
+          "uuid" : "B618DFDA-132B-4797-B5F3-52322926E5C2",
+          "class" : "NavigationView",
+          "root_view_name" : "Navigation View",
+          "name" : "navigationview1"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "name" : "",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
